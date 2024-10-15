@@ -1,0 +1,8 @@
+MONGODB:
+  HOST: localhost
+  PORT: 27017
+  DATABASE: "punishmentsdb"
+  AUTHENTICATION:
+    ENABLED: false
+    USERNAME: ""
+    PASSWORD: ""

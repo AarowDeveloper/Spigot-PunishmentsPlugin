@@ -1,0 +1,14 @@
+name: Punishments
+version: ALPHA-1.0
+main: dev.aarow.punishments.PunishmentPlugin
+author: Aarow_
+api-version: 1.20
+commands:
+  mute:
+  kick:
+  ban:
+  blacklist:
+  unmute:
+  unban:
+  unblacklist:
+  history:
